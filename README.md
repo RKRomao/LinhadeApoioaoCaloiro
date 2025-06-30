@@ -8,29 +8,31 @@ Este projeto tem como objetivo fornecer uma plataforma de suporte para calouros,
 
 ## 🚀 Funcionalidades
 
+*principais*
 - [ ] Sistema de perguntas e respostas frequentes
 - [ ] Guia do calouro
 - [ ] Dicas de sobrevivência universitária
 - [ ] Calendário acadêmico
 - [ ] Mapa do campus
+*secundarios*
+- [ ] Transportes publicos (horarios/preços)
+- [ ] Contactos uteis
+- [ ] Guias de praxe
+- [ ] Guias de departamentos
+- [ ] Espaços pessoal personalizavel
+- [ ] Espaços Nucleo
+- [ ] Competições universitarias
+- [ ] Apoio ao docente
+- [ ] Boot camp.
 
 ## 🛠️ Instalação
 
 1. Clone o repositório:
    ```bash
-   git clone [URL_DO_REPOSITÓRIO]
+   git clone [https://github.com/RKRomao/LinhadeApoioaoCaloiro.git]
    ```
 2. Acesse a pasta do projeto
 3. Instale as dependências (se aplicável)
 4. Execute o projeto
 
-## 🤝 Como Contribuir
-
-Contribuições são bem-vindas! Siga estes passos:
-
-1. Faça um Fork do projeto
-2. Crie uma Branch para sua Feature (`git checkout -b feature/AmazingFeature`)
-3. Adicione suas mudanças (`git add .`)
-4. Comite suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-5. Faça o Push da Branch (`git push origin feature/AmazingFeature`)
-6. Abra um Pull Request
+## Isto é um projeto Pessoal, sujeito a alterações estritamente feitas pelo autor

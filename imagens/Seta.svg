@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-1" points="22.67 1.42 9.33 13.57 21.67 24.81" style="stroke: rgb(255, 255, 255);" transform="matrix(0.9999999999999999, 0, 0, 0.9999999999999999, -8.881784197001252e-16, 0)"/>
+  <line class="cls-1" x1="22.33" y1="30.58" x2="9.67" y2="19.04" style="stroke: rgb(255, 255, 255);" transform="matrix(0.9999999999999999, 0, 0, 0.9999999999999999, -8.881784197001252e-16, 0)"/>
+</svg>
