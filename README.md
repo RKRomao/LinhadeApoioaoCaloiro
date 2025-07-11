@@ -25,14 +25,4 @@ Este projeto tem como objetivo fornecer uma plataforma de suporte para calouros,
 - [ ] Apoio ao docente
 - [ ] Boot camp.
 
-## 🛠️ Instalação
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/RKRomao/LinhadeApoioaoCaloiro.git]
-   ```
-2. Acesse a pasta do projeto
-3. Instale as dependências (se aplicável)
-4. Execute o projeto
-
 ## Isto é um projeto Pessoal, sujeito a alterações estritamente feitas pelo autor
